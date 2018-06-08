@@ -12,8 +12,8 @@ Copy function sc() in `sc.sh` to `.\*rc` file.
 
 Sample output
 ----------------
-Mac OSX(zsh):
-<img src="o1.png" width = "300" height = "300">
+Mac OSX(zsh):</br>
+<img src="o1.png" width = "50%" height = "50%">
 
-CentOS(bash):
-<img src="o2.png" width = "300" height = "300">
+CentOS(bash):</br>
+<img src="o2.png" width = "50%" height = "50%">
