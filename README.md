@@ -4,7 +4,7 @@ grep and color source files.
 
 Usage
 ----------------
-Copy function sc() in `sc.sh` to `.\*rc` file.
+Copy function sc() in `sc.sh` to `~\*rc` file.
 ```
 ~ sc "*.c" "grep SSL_CTX"
 ~ sc "*.h" "grep pcap | grep errbuf"
